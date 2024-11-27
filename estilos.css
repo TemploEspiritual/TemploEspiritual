@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./img/11.avif);
+    background-size: 100%;
+}
+.container{
+    text-align: center;
+    font-size: 30px;
+    background-color:rgba(235, 174, 174, 0.322);
+    color: black;
+    margin: 20px;
+    padding: 10px;
+    font-family: cursive;
+}
+.container img{
+    width: 90px;
+}
+img{
+    width: 100%;
+}
+
+a{
+    color: rgb(41, 0, 189);
+    font-size: 40px;
+}
+
+.links{
+    display: flex;
+}
+.pene{
+    font-size: 34px;
+}
