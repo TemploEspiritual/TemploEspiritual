@@ -37,3 +37,16 @@ a{
 .pene{
     font-size: 34px;
 }
+
+
+footer a{
+    display: flex;
+    position: fixed;
+    width: 80px;
+    z-index: 10;
+    top: 0;
+    right: 0;
+    margin-top: 400px;
+    margin-right:8px ;
+
+}
