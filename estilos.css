@@ -50,3 +50,8 @@ footer a{
     margin-right:8px ;
     opacity: 70%;
 }
+h2 {
+    margin: 30px;
+    text-align: center;
+    font-size: 40px;
+}
