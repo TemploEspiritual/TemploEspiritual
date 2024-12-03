@@ -18,12 +18,14 @@ body{
     margin: 20px;
     padding: 10px;
     font-family: Geneva;
+    border-radius: 40px;
 }
 .container img{
     width: 90px;
 }
 img{
     width: 100%;
+    border-radius: 40px;
 }
 
 a{
