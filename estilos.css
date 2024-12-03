@@ -23,7 +23,7 @@ body{
 .container img{
     width: 90px;
 }
-img{
+img .nw{
     width: 100%;
     border-radius: 40px;
 }
