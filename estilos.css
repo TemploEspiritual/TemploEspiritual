@@ -23,7 +23,7 @@ body{
 .container img{
     width: 90px;
 }
-img .nw{
+img{
     width: 100%;
     border-radius: 40px;
 }
@@ -56,4 +56,8 @@ h2 {
     margin: 30px;
     text-align: center;
     font-size: 40px;
+}
+
+.flotante{
+    border-radius: 1px;
 }
